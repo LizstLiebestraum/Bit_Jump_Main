@@ -1,0 +1,20 @@
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit Jump.csproj.AssemblyReference.cache
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit Jump.csproj.GenerateResource.cache
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit Jump.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Bit Jump.exe.config
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Bit Jump.exe
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Bit Jump.pdb
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit_Jump.Form1.resources
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit Jump.exe
+C:\Users\Chris\Downloads\Platform-Game-in-Windows-Form-main\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Bit Jump.pdb
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\bin\Debug\Bit Jump.exe.config
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\bin\Debug\Bit Jump.exe
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\bin\Debug\Bit Jump.pdb
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit Jump.csproj.AssemblyReference.cache
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit_Jump.Form1.resources
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit Jump.csproj.GenerateResource.cache
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit Jump.csproj.CoreCompileInputs.cache
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit Jump.exe
+D:\Bit-Jump-main\Bit Jump_COMPROG\Bit Jump\Bit Jump\obj\Debug\Bit Jump.pdb
